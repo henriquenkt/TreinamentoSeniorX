@@ -1,2 +1,0 @@
-# TreinamentoSeniorX
-Treinamento plataforma SeniorX
